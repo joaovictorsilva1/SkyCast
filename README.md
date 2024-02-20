@@ -19,3 +19,7 @@ Convenience: With all the essential weather information available in one place, 
 User-Friendly Interface: Designed with simplicity in mind, SkyCast offers an intuitive interface that's easy to navigate for users of all levels.                                                                        
 # License
 TokenSecure is licensed under the MIT License. See the LICENSE file for more information.
+
+# 
+
+ HTML,CSS E JAVASCRIPT.
