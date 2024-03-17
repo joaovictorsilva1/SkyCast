@@ -1,11 +1,28 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SkyCast</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SkyCast</title>
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="shortcut icon" href="/ico/sol.ico" type="image/x-icon">
 </head>
 <body>
-    
+  <div class="container">
+    <h1>Previsão do Tempo</h1>
+    <div class="dados-climaticos">
+      <div class="localizacao">
+        <h2>Localização: <span id="localizacao"></span></h2>
+      </div>
+      <div class="clima-atual">
+        <h2>Clima Atual:</h2>
+        <p><strong>Temperatura:</strong> <span id="temperatura"></span> °C</p>
+        <p><strong>Condição:</strong> <span id="condicao"></span></p>
+        <p><strong>Velocidade do Vento:</strong> <span id="velocidade-vento"></span> km/h</p>
+        <!-- Adicione mais campos meteorológicos conforme necessário -->
+      </div>
+    </div>
+  </div>
+  <script src="script.js"></script>
 </body>
 </html>
