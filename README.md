@@ -20,7 +20,7 @@ User-Friendly Interface: Designed with simplicity in mind, SkyCast offers an int
 # License
 TokenSecure is licensed under the MIT License. See the LICENSE file for more information.
 
-# Access link
+# Access link:
 https://skycastclima.netlify.app/
 # Technologies:
 
